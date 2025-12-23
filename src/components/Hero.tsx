@@ -12,7 +12,7 @@ export default function Hero() {
   const [profile, setProfile] = useState<ProfileData>({
     name: 'Mohan Sai Bakkamunthala',
     title: 'Software Engineer | Graduate Engineer Trainee at Coforge',
-    image_url: '/profile.jpg'
+    image_url: 'https://drive.usercontent.google.com/uc?id=1xdoBZFMZWJeFhyHrXAQAUJlSEBnpMhox&export=download'
   });
 
   useEffect(() => {
